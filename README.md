@@ -63,20 +63,7 @@ Once again focus is not to learn the f*ck ton of libraries but getting a feel of
 
 ---
 
-## 📝 Day 1 Summary
-
-* Learned that TOML exists.
-* Turned the project into an actual package.
-* Discovered `__init__.py` magic that I still don't understand.
-* Found out why storing data beside the code is not a great idea.
-* Got introduced to `platformdirs`.
-* Started thinking less like "just a script" and more like "an actual product".
-
----
-
-### 🔜 What's Next?
-
-This is it for Day 1.
+This is it for Now.
 
 I don't if i will come back to this project one maybe to practice some more useful libraries like `argparse` and the `.toml` file and the project as directory stuff.
 .
